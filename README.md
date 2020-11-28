@@ -27,3 +27,4 @@ The user should be able to:
 MangoDB
 Heroku
 
+mongodb+srv://wG_U5C:wG_U5C@cluster0.qh5jq.mongodb.net/workoutdb?retryWrites=true&w=majority
