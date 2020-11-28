@@ -1,9 +1,10 @@
-Workout Tracker
+## Workout Tracker
+
 ## Description
 
 Workout Tracker offers tracking of unlimited activities, whether you’re cycling, hiking or even kayaking.
 
-##### :earth_africa: [live](https://stormy-mountain-83972.herokuapp.com/) on heroku
+##### :earth_africa:  [live](https://stormy-mountain-83972.herokuapp.com/) on heroku
 
 ![Front Page](accets/application.png)
 ## User Story
@@ -28,8 +29,12 @@ The user should be able to:
 
 ## Technology Used 
 
-*JavaScript
-*MangoDB
-*Heroku
+* JavaScript
+* MangoDB
+* Heroku
 
-mongodb+srv://wG_U5C:wG_U5C@cluster0.qh5jq.mongodb.net/workoutdb?retryWrites=true&w=majority
+### Further Development
+
+* Add login capability
+* Recommendation
+* Time tracking
