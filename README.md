@@ -1,9 +1,10 @@
-Workout Tracker
+## Workout Tracker
+
 ## Description
 
 Workout Tracker offers tracking of unlimited activities, whether you’re cycling, hiking or even kayaking.
 
-##### :earth_africa: [live](https://stormy-mountain-83972.herokuapp.com/) on heroku
+##### :earth_africa:  [live](https://stormy-mountain-83972.herokuapp.com/) on heroku
 
 ![Front Page](accets/application.png)
 ## User Story
