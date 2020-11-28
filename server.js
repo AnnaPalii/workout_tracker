@@ -4,6 +4,8 @@ const logger = require("morgan");
 const path = require("path");
 const db = require("./models");
 
+
+const PORT = process.env.PORT || 3000;
 const app = express();
 
 app.use(logger("dev"));
@@ -65,6 +67,6 @@ app.put("/api/workouts/:id", (req, res)=> {
         })
 })
 
-app.listen(3000, () => {
-  console.log(`http://localhost:${3000}`,);
+app.listen(PORT, () => {
+  console.log(`http://localhost:${PORT}`,);
 });
